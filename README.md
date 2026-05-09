@@ -1,6 +1,6 @@
 # From Black-Box to Bottleneck: Interpretable Road Damage Detection via Contrastive Concept Alignment
 
-A concept-bottleneck approach to road damage classification on RDD2022 that closes half the accuracy gap to a black-box ResNet-18 baseline while preserving full interpretability through a 152-concept human-readable bottleneck.
+A concept-bottleneck approach to road damage classification on RDD2022 that closes half the accuracy gap to a black-box ResNet-18 baseline while preserving full interpretability through a human-readable bottleneck.
 
 ## Authors
 - Ammara Haroon
