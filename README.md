@@ -34,4 +34,4 @@ with $\lambda_{\text{contra}} = 2.0$ selected via validation F1 sweep. The contr
 
 **Image-Grounded Concept Generation.** Unlike the original LF-CBM which uses GPT-3 with text-only prompts, we use Claude (Anthropic) with multimodal prompting that grounds concept generation in actual damage imagery, producing more visually faithful concept descriptions.
 
-We used ResNet18 as out baselime model and then had LFCBM-CCA as our second improvement. In our notebook,LFCBM-CCA we used negative prompting to help improve our results.
+We used ResNet18 as out baselime model.This notebook establishes the ResNet-18 black-box baseline for road damage classification on RDD2022. It handles the full training pipeline.  then had LFCBM-CCA as our second improvement.This notebook implements the vanilla Label-Free Concept Bottleneck Model (LF-CBM) on top of the frozen ResNet-18 backbone. In this notebook,LFCBM-CCA we used negative prompting to help improve our results.
