@@ -1,0 +1,278 @@
+{
+  "vanilla_lfcbm": {
+    "Longitudinal Crack (D00)": [
+      {
+        "concept": "a road with a narrow fissure following the length of the carriageway",
+        "weight": 0.6732414960861206
+      },
+      {
+        "concept": "a road surface covered with interlocking angular crack segments",
+        "weight": 0.6539739370346069
+      },
+      {
+        "concept": "a road with a pothole whose interior walls show layered asphalt strata",
+        "weight": 0.6414493918418884
+      },
+      {
+        "concept": "a road with a hairline crack following the road axis",
+        "weight": 0.44575998187065125
+      },
+      {
+        "concept": "a road with a linear pavement defect running in the travel direction",
+        "weight": 0.38665300607681274
+      },
+      {
+        "concept": "a road with multiple branching cracks forming a mesh pattern",
+        "weight": 0.3556448817253113
+      },
+      {
+        "concept": "a road with a dark line crossing the asphalt at right angles to travel",
+        "weight": 0.3554641902446747
+      },
+      {
+        "concept": "a road with a longitudinal fissure on the paved surface",
+        "weight": 0.35236161947250366
+      }
+    ],
+    "Transverse Crack (D10)": [
+      {
+        "concept": "a road with a narrow transverse crack visible only as a thin dark line across asphalt",
+        "weight": 1.368072509765625
+      },
+      {
+        "concept": "a road surface showing a deep rounded cavity from structural failure",
+        "weight": 0.761928915977478
+      },
+      {
+        "concept": "a road with a continuous crack parallel to lane markings",
+        "weight": 0.7544441223144531
+      },
+      {
+        "concept": "a road with a transverse crack showing signs of prior patching or repair attempt",
+        "weight": 0.7246119976043701
+      },
+      {
+        "concept": "a road with a bowl-shaped excavation in the pavement",
+        "weight": 0.6167618632316589
+      },
+      {
+        "concept": "a road with a longitudinal split visible across an asphalt surface",
+        "weight": 0.5349957346916199
+      },
+      {
+        "concept": "a road with dense multi-directional cracks dividing pavement into pieces",
+        "weight": 0.45118942856788635
+      },
+      {
+        "concept": "a road with interlocked crack segments forming elongated irregular shapes rather than polygons",
+        "weight": 0.3822447955608368
+      }
+    ],
+    "Alligator Crack (D20)": [
+      {
+        "concept": "a road with asphalt showing a circular void with exposed base material",
+        "weight": 1.1653120517730713
+      },
+      {
+        "concept": "a road with a clearly visible crack spanning the lane crosswise",
+        "weight": 0.9485960006713867
+      },
+      {
+        "concept": "a road with a fine line crack parallel to the road edge",
+        "weight": 0.7946881055831909
+      },
+      {
+        "concept": "a road with a large pothole spanning nearly the full width of a vehicle tyre track",
+        "weight": 0.7441131472587585
+      },
+      {
+        "concept": "a road with a longitudinal crack partially filled with debris or dirt",
+        "weight": 0.6151769161224365
+      },
+      {
+        "concept": "a road with crocodile skin texture caused by crack network",
+        "weight": 0.5620405077934265
+      },
+      {
+        "concept": "a road with asphalt broken into small angular fragments by fatigue",
+        "weight": 0.5262311100959778
+      },
+      {
+        "concept": "a road surface showing a crack perpendicular to travel direction",
+        "weight": 0.44171255826950073
+      }
+    ],
+    "Pothole (D40)": [
+      {
+        "concept": "a road with a transverse crack that opens into a wide dark gap across the lane",
+        "weight": 0.7013859748840332
+      },
+      {
+        "concept": "a road with a fatigue crack network where moisture has pooled inside the crack cells",
+        "weight": 0.5060580372810364
+      },
+      {
+        "concept": "a road with a dark circular depression in the driving lane",
+        "weight": 0.42796826362609863
+      },
+      {
+        "concept": "a road with a craze-cracked zone bordered by an abrupt transition to intact asphalt",
+        "weight": 0.3372385501861572
+      },
+      {
+        "concept": "a road with a long narrow opening running along the asphalt",
+        "weight": 0.25718873739242554
+      },
+      {
+        "concept": "a road surface showing a deep rounded cavity from structural failure",
+        "weight": 0.25415489077568054
+      },
+      {
+        "concept": "a road with a crack spanning the full width of a lane",
+        "weight": 0.21891120076179504
+      },
+      {
+        "concept": "a road with a deep rounded hole caused by progressive pavement break-up",
+        "weight": 0.20440003275871277
+      }
+    ]
+  },
+  "lfcbm_cca": {
+    "Longitudinal Crack (D00)": [
+      {
+        "concept": "a road with a single straight crack along its length",
+        "weight": 0.5402129292488098
+      },
+      {
+        "concept": "a road with fatigue cracking forming a mosaic pattern on asphalt",
+        "weight": 0.38423073291778564
+      },
+      {
+        "concept": "a road with a longitudinal crack showing whitish edges from weathering and oxidation",
+        "weight": 0.34686994552612305
+      },
+      {
+        "concept": "a road showing a pothole with rough broken asphalt around its perimeter",
+        "weight": 0.33971676230430603
+      },
+      {
+        "concept": "a road with a surface fracture oriented in the direction of travel",
+        "weight": 0.33530882000923157
+      },
+      {
+        "concept": "a road with a longitudinal split visible across an asphalt surface",
+        "weight": 0.3169870972633362
+      },
+      {
+        "concept": "a road with a horizontal crack crossing the pavement under flat even lighting conditions",
+        "weight": 0.31678304076194763
+      },
+      {
+        "concept": "a road with a bowl-shaped pothole with fractured rim edges",
+        "weight": 0.31169816851615906
+      }
+    ],
+    "Transverse Crack (D10)": [
+      {
+        "concept": "a road with interlocked crack segments forming elongated irregular shapes rather than polygons",
+        "weight": 0.8570731282234192
+      },
+      {
+        "concept": "a road with a circular pavement defect showing depth and broken borders",
+        "weight": 0.783387303352356
+      },
+      {
+        "concept": "a road with an irregular longitudinal crack showing jagged rather than straight edges",
+        "weight": 0.7436079382896423
+      },
+      {
+        "concept": "a road surface with a transverse dark line crack",
+        "weight": 0.7389125823974609
+      },
+      {
+        "concept": "a road with a clearly visible crack spanning the lane crosswise",
+        "weight": 0.5684526562690735
+      },
+      {
+        "concept": "a road with block cracking showing interconnected fractures",
+        "weight": 0.47675666213035583
+      },
+      {
+        "concept": "a road with a pothole showing exposed gravel or aggregate at its base",
+        "weight": 0.4710848927497864
+      },
+      {
+        "concept": "a road with a mosaic of cracks covering a localised area of pavement",
+        "weight": 0.41850608587265015
+      }
+    ],
+    "Alligator Crack (D20)": [
+      {
+        "concept": "a road with an exposed sub-base material surrounded by crumbling asphalt",
+        "weight": 0.6770688891410828
+      },
+      {
+        "concept": "a road with crocodile skin texture caused by crack network",
+        "weight": 0.5759274959564209
+      },
+      {
+        "concept": "a road with a sharp linear fracture going from one side to the other",
+        "weight": 0.4083998203277588
+      },
+      {
+        "concept": "a road with multiple interconnected fractures across a distressed zone",
+        "weight": 0.3617890477180481
+      },
+      {
+        "concept": "a road with a longitudinal crack running close to the outer edge of the lane",
+        "weight": 0.3282564580440521
+      },
+      {
+        "concept": "a road with a crater-like depression in the driving lane",
+        "weight": 0.27668094635009766
+      },
+      {
+        "concept": "a road with a narrow transverse crack visible only as a thin dark line across asphalt",
+        "weight": 0.2640412747859955
+      },
+      {
+        "concept": "a road with a visible cavity where pavement material has been lost",
+        "weight": 0.26251456141471863
+      }
+    ],
+    "Pothole (D40)": [
+      {
+        "concept": "a road with a roughly circular cavity in the asphalt",
+        "weight": 0.35111504793167114
+      },
+      {
+        "concept": "a road with a crosswise surface break across the pavement",
+        "weight": 0.3156268298625946
+      },
+      {
+        "concept": "a road surface showing a deep rounded cavity from structural failure",
+        "weight": 0.30014917254447937
+      },
+      {
+        "concept": "a road with a craze-cracked zone bordered by an abrupt transition to intact asphalt",
+        "weight": 0.2583615779876709
+      },
+      {
+        "concept": "a road surface showing a narrow crack running side to side",
+        "weight": 0.2533191442489624
+      },
+      {
+        "concept": "a road with a surface break showing a hole with rough boundaries",
+        "weight": 0.24123768508434296
+      },
+      {
+        "concept": "a road with a thin linear split in the asphalt along its axis",
+        "weight": 0.23576997220516205
+      },
+      {
+        "concept": "a road with multiple interconnected fractures across a distressed zone",
+        "weight": 0.22731080651283264
+      }
+    ]
+  }
+}
